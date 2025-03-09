@@ -25,4 +25,13 @@ This repository contains a Python script that predicts house prices using the **
 
 ### 1️⃣ Clone the Repository
 ```sh
-git clone 
+git clone  https://github.com/AnuragDeotale/House_Price_Prediction.git
+cd House_Price_prediction.git
+
+---
+### Install Dependencies
+pip install -r requirements.txt
+
+
+### 3️⃣ Run the Script
+python predicting_house_price.py
